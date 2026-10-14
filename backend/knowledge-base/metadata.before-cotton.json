@@ -1,0 +1,60 @@
+﻿{
+  "documents": [
+    {
+      "id": "tnau-rice-blast-symptoms-001",
+      "title": "Rice Blast Disease: Symptoms and Identification",
+      "organization": "Tamil Nadu Agricultural University (TNAU)",
+      "crop": "Rice",
+      "topic": "disease identification",
+      "region": "Tamil Nadu, India",
+      "publicationDate": null,
+      "sourceUrl": "https://www.agritech.tnau.ac.in/crop_protection/rice_diseases/rice_1.html",
+      "content": "Rice blast is a fungal disease that can affect rice at several growth stages, from seedlings to tillering and panicle heading. On leaves, early symptoms may appear as small bluish-green flecks that develop into spindle-shaped lesions with grey centres and dark-brown margins, particularly under moist conditions. As lesions grow and merge, leaves may dry and wither. Lesions can also occur on leaf sheaths and nodes. Node infections may girdle the stem, cause breakage, and lead to death of plant parts above the affected node. Infection near the base of the plant or panicle neck may cause white or poorly developed panicles. Neck lesions are often greyish-brown and may cause the panicle to fall over. Infection timing can affect grain formation and quality. Lesion appearance and size can vary among rice varieties.",
+      "sourceType": "university agricultural extension resource",
+      "usageNote": "This is a concise paraphrased summary for retrieval, not a verbatim reproduction of the source. The source is associated with Tamil Nadu Agricultural University; recommendations for other regions must be checked against relevant local agricultural guidance.",
+      "verified": true
+    },
+    {
+      "id": "tnau-rice-bacterial-leaf-blight-001",
+      "title": "Rice Bacterial Leaf Blight: Symptoms and Identification",
+      "organization": "Tamil Nadu Agricultural University (TNAU)",
+      "crop": "Rice",
+      "topic": "disease identification",
+      "region": "Tamil Nadu, India",
+      "publicationDate": null,
+      "sourceUrl": "https://www.agritech.tnau.ac.in/crop_protection/rice_diseases/rice_23.html",
+      "content": "Rice bacterial leaf blight is caused by Xanthomonas oryzae pv. oryzae. In mature plants, early symptoms may include water-soaked, translucent lesions near leaf margins. Lesions can lengthen and widen, develop wavy margins, and turn straw yellow. Advanced infection can cause large areas of the leaf blade to become white or straw-coloured. Seedlings may show yellow marginal spots, and a severe seedling phase can cause wilting. Some young lesions may produce milky or opaque bacterial droplets in the early morning.",
+      "sourceType": "university agricultural extension resource",
+      "usageNote": "Paraphrased symptom summary for retrieval, not a verbatim reproduction. This TNAU source is associated with Tamil Nadu; confirm regional diagnosis and management with a local agricultural expert.",
+      "verified": true
+    },
+    {
+      "id": "tnau-rice-brown-spot-001",
+      "title": "Rice Brown Spot: Symptoms and Identification",
+      "organization": "Tamil Nadu Agricultural University (TNAU)",
+      "crop": "Rice",
+      "topic": "disease identification",
+      "region": "Tamil Nadu, India",
+      "publicationDate": null,
+      "sourceUrl": "https://agritech.tnau.ac.in/org_farm/orgfarm_prac_agri_paddy_diseases.html",
+      "content": "Rice brown spot is a fungal disease associated with Bipolaris oryzae, historically also referred to as Helminthosporium oryzae. Symptoms can include round, oval, or irregular brown spots on leaves. Spots may merge and cause affected tissue to wither. Brown or greyish-brown discolouration may also occur near the neck, and grains may develop reddish-brown discolouration.",
+      "sourceType": "university agricultural extension resource",
+      "usageNote": "Paraphrased symptom summary for retrieval, not a verbatim reproduction. This source is a TNAU organic-farming resource; local applicability and management should be confirmed with a regional agricultural expert.",
+      "verified": true
+    },
+    {
+      "id": "tnau-rice-sheath-blight-001",
+      "title": "Rice Sheath Blight: Symptoms and Identification",
+      "organization": "Tamil Nadu Agricultural University (TNAU)",
+      "crop": "Rice",
+      "topic": "disease identification",
+      "region": "Tamil Nadu, India",
+      "publicationDate": null,
+      "sourceUrl": "https://agritech.tnau.ac.in/crop_protection/rice_diseases/rice_6.html",
+      "content": "Rice sheath blight is a fungal disease caused by Rhizoctonia solani. It commonly affects rice from tillering to heading. Initial symptoms are often found on leaf sheaths near the water level, where greenish-grey, oval, elliptical, or irregular lesions develop. As lesions enlarge, their centres may become greyish-white with darker brown or purple-brown borders. Lesions may spread to upper parts of the plant and merge, causing leaves to die. Severe infection can affect multiple leaves and tillers and may contribute to poorly filled grains.",
+      "sourceType": "university agricultural extension resource",
+      "usageNote": "Paraphrased symptom summary for retrieval, not a verbatim reproduction. The source is associated with Tamil Nadu; confirm regional applicability with local agricultural guidance.",
+      "verified": true
+    }
+  ]
+}
